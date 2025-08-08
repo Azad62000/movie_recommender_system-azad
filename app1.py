@@ -26,8 +26,8 @@ def download_from_github(url, dest_path):
     print(f"{dest_path} download completed.")
 
 # ===== URLs from GitHub Release (Replace after release creation) =====
-MOVIE_URL = "https://github.com/<username>/<repo>/releases/download/<tag>/movie.pkl"
-SIMILARITY_URL = "https://github.com/<username>/<repo>/releases/download/<tag>/similarity.pkl"
+MOVIE_URL ="https://github.com/AzadKumar/movie-recommender-system/releases/download/v1.0/movie.pkl"
+SIMILARITY_URL =url = "https://github.com/AzadKumar/movie-recommender-system/releases/download/v1.0/similarity.pkl"
 
 # ===== Download required files if not present =====
 download_from_github(MOVIE_URL, "movie.pkl")
