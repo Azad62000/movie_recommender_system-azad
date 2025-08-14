@@ -9,6 +9,6 @@ Please download the latest release to get these files.
 
 ## 🎬 Movie Recommender System
 
-**Live Demo:** [Click Here](https://your-deployed-link.com)
+**Live Demo:** [Click Here]([https://your-deployed-link.com](https://movie-recommender-system-azad.onrender.com))
 
 A content-based movie recommendation system built with Python, Streamlit, and machine learning.
